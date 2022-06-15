@@ -1,0 +1,27 @@
+1 MATLAB 软件问题
+Matlab下载资源：
+http://software.hust.edu.cn/（使用校园网vpn可下载正版matlab）
+
+Matlab入门教程：
+https://blog.csdn.net/in_nocence/article/details/78358614?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+在线MATLAB
+https://octave-online.net/ 不能保存函数。
+
+正版软件可以免费用一个月
+matlab2007b 1.7G
+
+2 实验一参考代码《多媒体信息安全实践教程》2.2章
+
+3 实验二参考代码《多媒体信息安全实践教程》2.4章
+
+4 从JPEG图片中提取DCT系数的程序参考网页 http://dde.binghamton.edu/download/nsf5simulator/，其中在MATLAB中调用C语言函数需选择目录下适合本机器环境的对应封装包，删除同名的其他备用封装包；若现有封装包不可用，可下载对应C语言程序重新编译获取）。
+1: mexa64===>64-bit Linux
+
+2: mexglx===>32-bit Linux
+
+3: mexw32===>32-bit Windows
+
+4: mexw64===>64-bit Windows
+
+5 为了得到比较好的灰度图，DCT系数直方图对比效果，需要考虑嵌入量，嵌入内容伪随机性，载体特点等。
